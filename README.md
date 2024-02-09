@@ -1,7 +1,7 @@
 # Platform_Computing
 # About Me
 
-PROVIDE OVERVIEW OF ASSIGNMENT HERE
+This is my about me html/css files. I wrote 3 paragraphs, about my journey on how I started majoring in Computer Science. My love for reading, also which books i have been loving. 
 
 Time spent: **10** hours spent in total
 
