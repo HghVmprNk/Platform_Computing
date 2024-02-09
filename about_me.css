@@ -1,0 +1,96 @@
+/* centering the heading, lets organize everything */
+.styled-button {
+    background-color: rgb(231, 67, 166);
+    color: rgb(47, 3, 81);
+    border: navy;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+
+.header {
+    background-image: url(https://media.tenor.com/VByuklcJ6iAAAAAj/hearts.gif);
+    background-size:auto;
+    background-position: center; /*iffy on this part */
+    padding: 50px;
+    color: pink;
+    text-align: center; 
+}
+h1 {
+    text-align: center;
+    color: rgb(230, 9, 185);
+    font-size: 400%;
+    font-family: fantasy;
+
+}
+.rounded-header {
+  border: 2px;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px 0;
+}
+h2 {
+  font-size: 250%;
+}
+.rounded-header{
+  color: blueviolet;
+  border: 2px solid plum;
+  border-radius: 5px;
+  
+}
+
+h3 {
+  font-size: 250%;
+}
+h4 {
+  font-size: 250%; 
+}
+/* this is a global embedded style */
+p{
+    font-family: "Fantasy", papyrus; 
+    font-size: 24pt;
+}
+body {
+    background-color:RGB(204, 204, 255); }
+
+    
+
+
+
+
+    /* this section is in my Div spot in section random thoughts */
+    #clouds {
+        background: url(https://media1.tenor.com/m/Nk-Pq4dkzk4AAAAC/anime-clouds.gif);
+        padding: 15px;
+        
+    }
+    #white {
+        color: aliceblue;
+    }
+
+  /* attempt: gallery of my favorite book series as mentioned */ 
+  div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  div.gallery:hover {
+    border: 1px solid #ccc;
+  }
+  div.gallery img{
+    width: 100%;
+    height: auto;
+  }
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+    
