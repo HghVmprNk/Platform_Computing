@@ -24,8 +24,12 @@ The following **bonus** features are implemented:
 Added div gallery, created div id's #cloud #white
 
 ## Screenshot and/or Video Walkthrough
+[
+](https://drive.google.com/file/d/1_N1asoENzyAwsL7p51lVWWDDLjTXXymt/view?usp=share_link) 
 
-[![screen recording] (https://drive.google.com/file/d/1_N1asoENzyAwsL7p51lVWWDDLjTXXymt/view?usp=share_link)]   
+![Screenshot](https://github.com/HghVmprNk/Platform_Computing/assets/131201781/a752cb32-aaa4-4241-b389-e8ab8ad2fd3b)
+![Screenshot2](https://github.com/HghVmprNk/Platform_Computing/assets/131201781/967ea4ce-e928-4f51-a7f2-ad293f2f9f54)
+
 
 
 ## Notes:
