@@ -26,6 +26,8 @@ Added div gallery, created div id's #cloud #white
 ## Screenshot and/or Video Walkthrough
 
 [![screen recording] (https://drive.google.com/file/d/1_N1asoENzyAwsL7p51lVWWDDLjTXXymt/view?usp=share_link)]   
+<img src="Screenshot.jpg" title='Top Page' width='' alt='Top' />
+<img src="Screenshot2.jpg" title='End Page' width='' alt='second half' />
 
 
 ## Notes:
