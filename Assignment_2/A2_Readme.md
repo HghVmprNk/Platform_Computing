@@ -17,6 +17,6 @@ The following **required** features are completed:
 
 ## Screenshot and/or Video Walkthrough
 
-<img src="reactcode.png" title='react' width='' alt='samecode' />
-<img src="selenium_proj.png" title='seleniym' width='' alt='screenshote' />
-<img src="terminal.png" title='terminal' width='' alt='screenshot' />
+<img src="reactcode.png" title='react' width='' alt='samecode'/>
+<img src="selenium_proj.png" title='seleniym' width='' alt='screenshote'/>
+<img src="terminal.png" title='terminal' width='' alt='screenshot'/>
