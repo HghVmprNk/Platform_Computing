@@ -22,3 +22,4 @@ them via user (2 pt).
 ![mysql](images/mysql.png)
 ![mystery](images/mysterysql.png)
 ![sql](images/sqlproof.png)
+![sql](images/table.png)
