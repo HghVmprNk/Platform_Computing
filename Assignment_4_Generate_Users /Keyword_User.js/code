@@ -1,1 +1,37 @@
+const { Builder, By, Key, until } = require('selenium-webdriver');
+
+// Initialize Selenium WebDriver
+const driver = new Builder().forBrowser('chrome').build();
+
+// Function to check keyword and extend presence time
+async function checkKeywordPresence(url, keyword) {
+    await driver.get(url);
+    const content = await driver.findElement(By.tagName('body')).getText();
+    if (content.includes(keyword)) {
+        // Extend presence time by 10 seconds
+        return 10;
+    } else {
+        return 0;
+    }
+}
+
+// URLs for testing (one with keyword, one without)
+const urlWithKeyword = 'http://localhost:3000';
+const urlWithoutKeyword = 'http://localhost:3000';
+
+// Checking keyword and get presence time
+async function runScript() {
+    const presenceTimeWith = await checkKeywordPresence(urlWithKeyword, 'student');
+    const presenceTimeWithout = await checkKeywordPresence(urlWithoutKeyword, 'student');
+
+    // Output presence time to terminal
+    console.log(`Presence Time with Keyword: ${presenceTimeWith} seconds`);
+    console.log(`Presence Time without Keyword: ${presenceTimeWithout} seconds`);
+
+    // Close the WebDriver
+    await driver.quit();
+}
+
+// Run 
+runScript().catch(console.error);
 
